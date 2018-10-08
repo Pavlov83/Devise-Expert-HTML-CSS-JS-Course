@@ -1,0 +1,47 @@
+//Comparison operators
+
+>, >= bigger than, bigger than or equals
+<,<= less than,less than or equals
+== equals
+!= not equals
+=== strictly  equals
+!== strictly not equals
+
+//boolean
+
+true
+false
+
+x = 10; //assignment
+x = x + 3;//assignment statement
+x == 10; comparison for equality
+
+((x = x + 2) == 10)
+
+//Logical operators
+
+&& logical "and"
+|| logical "or"
+! logical "not"
+
+
+Conditional statements
+
+//if statement
+
+if(condition){
+	expression1;
+	expression2;
+}
+
+
+//if else statement
+
+if(condition){
+	expression1;
+	expression2;
+}else if(condition2{
+	expression 3;
+}else{
+	expression 4;
+}
