@@ -1,0 +1,19 @@
+#JavaScript have different versions,we will use(EcmaScript6)
+
+We will use Node and Git for runtime environment and version control.
+https://nodejs.org/en/
+https://git-scm.com/
+
+## Declaring variables with 'let'
+
+'let' is a keyword which replaces 'var' for declaration of variables.
+As we know with var there is a problem related to scope visibility and the second declaration
+which is only in JavaScript which for many people that come for other languages this leads to unexpected issues.(check ex02.js)
+
+'let' limits the variables to the scope that they are declared to.
+
+## declaring constant variables('const');
+constant is a variable which value never changes
+If we try to change the value we will receive an error.For global variables is advisable to use constants.
+
+## Template literals(ex05.js)
