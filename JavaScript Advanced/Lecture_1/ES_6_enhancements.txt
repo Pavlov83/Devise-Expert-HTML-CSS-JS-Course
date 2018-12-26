@@ -17,3 +17,12 @@ constant is a variable which value never changes
 If we try to change the value we will receive an error.For global variables is advisable to use constants.
 
 ## Template literals(ex05.js)
+
+
+## Functions with default parameters(ex06.js)
+
+## Function generators(ex.07.js)
+
+## Lambda expressions ( Arrow functions) ex.08-1.js
+
+## Lambda expression which returns value can be written simpler ex08-2.js
