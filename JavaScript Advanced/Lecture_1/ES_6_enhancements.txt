@@ -16,13 +16,4 @@ which is only in JavaScript which for many people that come for other languages 
 constant is a variable which value never changes
 If we try to change the value we will receive an error.For global variables is advisable to use constants.
 
-## Template literals(ex05.js)
-
-
-## Functions with default parameters(ex06.js)
-
-## Function generators(ex.07.js)
-
-## Lambda expressions ( Arrow functions) ex.08-1.js
-
-## Lambda expression which returns value can be written simpler ex08-2.js
+## Template literals(ex05.js),allows us to use expressions in variables and to keep formating of text and call functions"
