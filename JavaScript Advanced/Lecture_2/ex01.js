@@ -26,14 +26,13 @@ function User(){
     //public method(public methods are forming the interface(those functions that are communicating with the other parts of the code))
     this.show = ()=>{
         console.log(`###User ${firstName} Age:${this.age}###`)
-        );
+    };
     foo();
     };
     //private method
     function foo(){
         console.log('function foo');
     };
-}   
 
        /* Creating Objects */
 
