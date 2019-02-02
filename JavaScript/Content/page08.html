@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+
+	<script type="text/javascript">
+		
+		function showMessage(text, level){
+			if(text == null || text === undefined){
+				console.warn('Empty text');
+				text = '';
+			}
+			if( level < 1 || level > 6){
+				console.log('showMessage invalid value for level(' + level + ')');
+				level = 3;
+			}
+			document.write('<h'+level+'>' + text + '<h'+level+'>' );
+		}
+
+		showMessage('sucessful login',3);
+		showMessage('Product added', 4);
+		showMessage('Product unvailable',3);
+
+
+
+	</script>
+
+</head>
+<body>
+
+</body>
+</html>
